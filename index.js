@@ -17,6 +17,4 @@ res.send(OK);
 
 
 
-app.listen(PORT ) ;
-
-modules.exports = app;
+app.listen(PORT) ;
